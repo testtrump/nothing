@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1111</title>
+</head>
+<body>
+    <!--<div>-->
+    <!--    <img src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2.new.png" >-->
+    <!--</div>-->
+        <div>
+        <!--<img src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/wuyouhui.jpg" >-->
+                <img src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/1.12.30.jpg" >
+
+    </div>
+   
+
+    <script type="text/javascript">
+
+      window.onload = function () {
+        x = document.documentElement.clientWidth;
+        y = document.documentElement.clientHeight;
+        imgs = document.getElementsByTagName("img");
+        video = document.getElementsByTagName("video");
+        console.log(x,y,imgs)
+        for (var i=0;i<imgs.length;i++)
+        {
+            imgs[i].width = x
+            imgs[i].height = y
+            console.log(imgs[i])
+        }
+        for (var i=0;i<video.length;i++)
+        {
+            video[i].style.width  = x +"px"
+            video[i].style.height = y+"px"
+            console.log(imgs[i])
+        }
+
+      }
+    </script>
+</body>
+</html>

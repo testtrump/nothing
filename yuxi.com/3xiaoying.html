@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1111</title>
+</head>
+<body>
+    <div>
+        <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/0.v2.now.jpg">
+    </div>
+
+                <div >
+                <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/8.jpg">
+
+    </div>
+    <div>
+        <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/3_.jpg">
+    </div>
+              <div >
+                <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/7.jpg">
+
+    </div>
+                <div >
+                <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/9.jpg">
+
+    </div>
+    <!--<div>-->
+    <!--          <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/4.jpg">-->
+    <!--</div>-->
+
+    <div>
+        <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/2.jpg" >
+    </div>
+            <div >
+                <img class="imgs" src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/6.jpg">
+
+    </div>
+
+
+      <video controls loop autoplay muted poster="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/2.jpg">
+        <source src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/xiaoying/1.mp4"  type="video/mp4">
+      </video>
+    </div>
+    <script type="text/javascript">
+
+      window.onload = function () {
+        x = document.documentElement.clientWidth;
+        y = document.documentElement.clientHeight;
+        imgs = document.getElementsByClassName("imgs");
+        video = document.getElementsByTagName("video");
+        console.log(x,y,imgs)
+        for (var i=0;i<imgs.length;i++)
+        {
+            imgs[i].width = x
+            imgs[i].height = y
+            console.log(imgs[i])
+        }
+        for (var i=0;i<video.length;i++)
+        {
+            video[i].style.width  = x +"px"
+            video[i].style.height = y+"px"
+            console.log(imgs[i])
+        }
+
+      }
+
+    </script>
+</body>
+</html>
