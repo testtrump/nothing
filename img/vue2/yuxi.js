@@ -16,6 +16,10 @@ window.onload = function () {
                     "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/6.jpg",
                     "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/9.jpg",
                     "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/88.png",
+                ],
+                videos:[
+                    "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/2.mp4",
+                    "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/77.mp4"
                 ]
             }
         }
