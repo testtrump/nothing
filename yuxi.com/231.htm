@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1111</title>
+</head>
+<body>
+<div id="app">
+
+    <div  v-for="(img, index) in imgs" :key="index">
+        <img :src="img" >
+    </div>
+
+    <div  v-for="(v, index) in videos" :key="index">
+        <video controls loop muted autoplay poster="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/3.jpg">
+            <source :src="v"  type="video/mp4">
+        </video>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/vue2/i.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>-->
+<script>
+    window.onload = function () {
+        var vm = new Vue({
+            el:"#app",
+            data(){
+                return {
+                    imgs:[
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/guangdong1.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/6.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/666.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/2.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/live1.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/live2.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/55.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/01.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/5.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/6.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/9.jpg",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/88.png",
+                    ],
+                    videos:[
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/1/2.mp4",
+                        "https://cdn.jsdelivr.net/gh/testtrump/nothing@main/img/yuxi_new/2/77.mp4"
+                    ]
+                }
+            }
+        })
+        x = document.documentElement.clientWidth;
+        y = document.documentElement.clientHeight;
+        imgs = document.getElementsByTagName("img");
+        video = document.getElementsByTagName("video");
+        console.log(x,y,imgs)
+        for (var i=0;i<imgs.length;i++)
+        {
+            imgs[i].width = x
+            imgs[i].height = y
+        }
+        for (var i=0;i<video.length;i++)
+        {
+            video[i].style.width  = x +"px"
+            video[i].style.height = y+"px"
+        }
+
+    }
+</script>
+</body>
+</html>
