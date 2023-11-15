@@ -146,6 +146,7 @@ proxies:
   - {name: 🇺🇸 美国 01（CDN）, server: sm-us.aikunapp.com, port: 443, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cf-us.aikunapp.com, network: ws, ws-opts: {path: /uscdn, headers: {Host: ca-cfcdn.aikunapp.com}}, udp: true}
   - {name: 🇺🇸 美国 02（CDN）, server: sm-us.aikunapp.com, port: 443, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /uscdn, headers: {Host: ca-cfcdn.aikunapp.com}}, udp: true}
   - {name: 🇺🇸 美国 03（CDN）, server: sm-us.aikunapp.com, port: 443, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /uscdn, headers: {Host: ca-cfcdn.aikunapp.com}}, udp: true}
+  - {name: 🇭🇰 香港 01 专线 （五倍率）, server: jsyd.aikunapp.com, port: 20001, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 用不了就更新订阅, server: aws-hk.981545.xyz, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 01, server: aws-hkhk.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 02, server: aws-hkhk.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
@@ -169,9 +170,4 @@ proxies:
   - {name: 🇺🇸 美国圣何塞 01, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国圣何塞 02, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国圣何塞 03, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
-  - {name: 🏳️‍🌈 香港专线 01 （5x流量消耗）, server: gdyd.aikunapp.com, port: 10001, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
   - {name: 🏳️‍🌈 美国 01（5x流量消耗）, server: jsyd.aikunapp.com, port: 23648, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
-  - {name: 🏳️‍🌈 新加坡专线 01（5x流量消耗）, server: jsyd.aikunapp.com, port: 20817, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
-  - {name: 🏳️‍🌈 新加坡专线 02（5x流量消耗）, server: jsyd.aikunapp.com, port: 20818, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
-  - {name: 🏳️‍🌈 日本专线 01（5x流量消耗）, server: jsyd.aikunapp.com, port: 33580, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
-  - {name: 🏳️‍🌈 台湾 01（五倍流量消耗）, server: jsyd.aikunapp.com, port: 36253, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
