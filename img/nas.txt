@@ -171,3 +171,4 @@ proxies:
   - {name: 🇺🇸 美国圣何塞 02, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国圣何塞 03, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🏳️‍🌈 美国 01（5x流量消耗）, server: jsyd.aikunapp.com, port: 23648, type: ss, cipher: aes-128-gcm, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, udp: true}
+  - {name: 🏳️‍🌈 美国 01（五倍流量消耗）测试, server: sh.aikun.online, port: 14433, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
