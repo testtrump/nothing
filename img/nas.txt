@@ -79,7 +79,6 @@ proxies:
   - {name: 🇭🇰 香港 01 专线 （10x）, server: jsyd.aikunapp.com, port: 20001, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 01 专线 （10x）, server: jsyd.aikunapp.com, port: 20002, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 01 专线（五倍率）, server: shdx.aikunapp.com, port: 20003, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 台湾 01 专线（五倍率）（GPT专用）, server: jsyd.aikunapp.com, port: 20004, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 专线（五倍率）, server: jp.aikunapp.com, port: 20005, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇰🇷 韩国 专线 （五倍率）, server: kr.aikunapp.com, port: 20006, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 用不了就更新订阅, server: aws-hkhk.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
