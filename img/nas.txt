@@ -86,27 +86,27 @@ proxies:
   - {name: 🇺🇸 美国圣何塞 01, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国圣何塞 02, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国圣何塞 03, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
-  - {name: 距离下次重置剩余：26 天, server: sg.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 SG新加坡001 两元店yyds, server: sg.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 USA美国001, server: usa.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE德国001, server: de.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 JP日本001 两元店.com, server: jp.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 CA加拿大001, server: ca.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 AU澳大利亚001, server: ap.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 UK英国001, server: uk.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 SG新加坡002, server: sg.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 SG新加坡003, server: sg.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 USA美国002, server: usa.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 USA美国003, server: usa.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE德国002, server: de.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 DE德国003, server: de.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 JP日本002, server: jp.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 JP日本003, server: jp.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 CA加拿大002, server: ca.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 CA加拿大003, server: ca.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 AU澳大利亚002, server: ap.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 AU澳大利亚003, server: ap.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 UK英国002, server: uk.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 距离下次重置剩余：26 天, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG新加坡001 两元店yyds, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 USA美国001, server: usa.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE德国001, server: de.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP日本001 两元店.com, server: jp.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 CA加拿大001, server: ca.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 AU澳大利亚001, server: ap.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 UK英国001, server: uk.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG新加坡002, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG新加坡003, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 USA美国002, server: usa.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 USA美国003, server: usa.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE德国002, server: de.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE德国003, server: de.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP日本002, server: jp.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP日本003, server: jp.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 CA加拿大002, server: ca.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 CA加拿大003, server: ca.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 AU澳大利亚002, server: ap.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 AU澳大利亚003, server: ap.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 UK英国002, server: uk.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇱🇺 lu卢森堡001, server: lu.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇱🇺 lu卢森堡002, server: lu.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇱🇺 lu卢森堡003, server: lu.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
@@ -154,13 +154,13 @@ proxies:
   - {name: 🇧🇷 BR巴西流媒体节点003, server: brjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇦🇪 UAE迪拜流媒体节点001, server: uaejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇦🇪 UAE迪拜流媒体节点002, server: uaejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇪 UAE迪拜流媒体节点003, server: uaejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 HK香港流媒体节点001, server: hkjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 HK香港流媒体节点002, server: hkjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 HK香港流媒体节点003, server: hkjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇪 SWE瑞典流媒体节点001, server: swejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇪 SWE瑞典流媒体节点002, server: swejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇪 SWE瑞典流媒体节点003, server: swejs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇪🇸 ES西班牙流媒体节点001, server: esjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇪🇸 ES西班牙流媒体节点002, server: esjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
-  - {name: 🇪🇸 ES西班牙流媒体节点003, server: esjs.liangyuandiancloud.com, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇪 UAE迪拜流媒体节点003, server: uaejs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK香港流媒体节点001, server: hkjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK香港流媒体节点002, server: hkjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK香港流媒体节点003, server: hkjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇪 SWE瑞典流媒体节点001, server: swejs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇪 SWE瑞典流媒体节点002, server: swejs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇪 SWE瑞典流媒体节点003, server: swejs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇪🇸 ES西班牙流媒体节点001, server: esjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇪🇸 ES西班牙流媒体节点002, server: esjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 🇪🇸 ES西班牙流媒体节点003, server: esjs.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
