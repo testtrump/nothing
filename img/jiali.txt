@@ -35,7 +35,7 @@ proxies:
   - {name: 🇺🇸 美国 06 | 专线, server: us6.67e0d114-fc5a-b33b-af7a-4be57ce9ac24.617e6ac3.the-best-airport.com, port: 443, type: trojan, password: 3b5f224f-3ee5-4340-9047-cb95c60c7d8d, sni: 144-22-163-118.nhost.00cdn.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 07 | 专线, server: us7.67e0d114-fc5a-b33b-af7a-4be57ce9ac24.85860b8f.the-best-airport.com, port: 443, type: trojan, password: 3b5f224f-3ee5-4340-9047-cb95c60c7d8d, sni: 144-22-163-118.nhost.00cdn.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 08 | 专线, server: us8.67e0d114-fc5a-b33b-af7a-4be57ce9ac24.f73b4cdf.the-best-airport.com, port: 443, type: trojan, password: 3b5f224f-3ee5-4340-9047-cb95c60c7d8d, sni: 144-22-163-118.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-  - {name: 距离下次重置剩余：25 天, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
+  - {name: 距离下次重置剩余：24 天, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 去除48条不合适线路, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 更新了新协议, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🏳️‍🌈 加拿大 01 高速（0.1x流量消耗）, server: cdncdncdncdn.784654.xyz, port: 2052, type: vmess, uuid: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/index?ed=2048", headers: {Host: ca-cfcdn.aikunapp.com}}, udp: true}
@@ -66,7 +66,7 @@ proxies:
   - {name: 🇺🇸 美国01(gpt专用), server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国02(gpt专用), server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国03(gpt专用), server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
-  - {name: 距离下次重置剩余：18 天, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
+  - {name: 距离下次重置剩余：17 天, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 SG新加坡001 两元店yyds, server: sg.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 USA美国001, server: usa.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 DE德国001, server: de.lydurlclub.top, port: 443, type: trojan, password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f, skip-cert-verify: true, udp: true}
