@@ -22,7 +22,7 @@ proxies:
   - {name: 🇺🇸 美国 07 | 专线, server: us7.67e0d114-fc5a-b33b-af7a-4be57ce9ac24.85860b8f.the-best-airport.com, port: 443, type: trojan, password: 2ec29d91-bb7d-4735-8bce-f5bd138a4c75, sni: 144-22-163-118.nhost.00cdn.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 08 | 专线, server: us8.67e0d114-fc5a-b33b-af7a-4be57ce9ac24.f73b4cdf.the-best-airport.com, port: 443, type: trojan, password: 2ec29d91-bb7d-4735-8bce-f5bd138a4c75, sni: 144-22-163-118.nhost.00cdn.com, skip-cert-verify: true, udp: true}
   - {name: 距离下次重置剩余：26 天, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
-  - {name: 去除30条不合适线路, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
+  - {name: 去除27条不合适线路, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 更新了新协议, server: smus.aikunapp.com, port: 443, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: cdn-sm-cdn-sm.zzzcccc.top, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 HKT 1, server: hkt.aikunapp.com, port: 888, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: s0.awsstatic.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 HKT 2, server: hkt.aikunapp.com, port: 888, type: trojan, password: 99b4579e-c837-48c9-8cb1-edc3890bb9ae, sni: s0.awsstatic.com, skip-cert-verify: true, udp: true}
