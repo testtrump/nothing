@@ -1,1 +1,1 @@
-curl -s -H "User-Agent: clash.meta" "https://jsjc.cfd/api/v1/client/subscribe?token=5f68e1995a78d0737f786eb4879e2dae" |grep '{ name'
+https://jsjc.cfd/api/v1/client/subscribe?token=5f68e1995a78d0737f786eb4879e2dae
