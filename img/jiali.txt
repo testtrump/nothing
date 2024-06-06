@@ -18,7 +18,7 @@ proxies:
   - { name: 🇦🇪迪拜2-1.5倍率, server: 139.185.34.29, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
   - { name: 🇰🇷韩国春川-3倍率, server: 146.56.114.61, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
   - { name: 🇰🇷韩国春川2-3倍率, server: 158.180.71.143, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
-  - { name: 🇦🇺澳大利亚悉尼-1.5倍率, server: 192.9.186.104, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
+  - { name: 🇦🇺澳大利亚悉尼-1.5倍率, server: 159.13.38.138, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
   - { name: 🇦🇺澳大利亚墨尔本-1.6倍率, server: 152.69.186.200, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
   - { name: 🇮🇳印度孟买-3倍率, server: 144.24.99.141, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
   - { name: 🇮🇳印度海得拉巴-3倍率, server: 144.24.146.216, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 9e4e4a26-42c1-4cd2-bdfb-9e821b3a6571 }
