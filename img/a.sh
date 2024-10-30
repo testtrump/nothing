@@ -1,8 +1,9 @@
 cd /root/nothing/img
 python a.py |grep ss:// > a.out
+curl -s `python change.py` > b.txt
 
 # 配置变量
-FILE_PATH="./a.out"  # 要上传的文件路径
+FILE_PATH="./b.txt"  # 要上传的文件路径
 REPO_PATH="/root/nothing/img"  # 本地 Git 仓库路径
 COMMIT_MESSAGE="Automated commit and push at $(date +"%Y-%m-%d %H:%M:%S")"
 
