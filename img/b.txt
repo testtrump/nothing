@@ -1,13 +1,13 @@
 proxies:
-  - {name: "🇺🇸 US, Houston", server: 54.69.144.178, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇯🇵 JP, Tokyo", server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇺🇸 US, Dallas 2", server: 52.12.87.156, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇰🇷 KR, Incheon", server: 52.79.157.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇭🇰 HK, Los Angeles", server: 54.149.182.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇯🇵 JP, Tokyo 2", server: 3.38.209.2, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇯🇵 JP, Osaka", server: 43.201.254.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇨🇦 CA, Vancouver", server: 54.187.244.22, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇭🇰 HK, New Territories", server: 3.36.87.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: "🇨🇳 TW, Taipei", server: 43.203.218.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇸🇬 SG, Singapore", server: 43.201.72.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "🇭🇰 HK, Kowloon", server: 3.35.54.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇭🇰 HK, Kowloon", server: 43.201.72.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇺🇸 US, Houston", server: 44.243.225.84, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇯🇵 JP, Tokyo 2", server: 3.38.209.2, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇭🇰 HK, New Territories", server: 3.36.87.34, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇨🇦 CA, Vancouver", server: 35.165.40.78, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇺🇸 US, Dallas 2", server: 54.191.9.106, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇯🇵 JP, Osaka", server: 43.201.254.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇸🇬 SG, Singapore", server: 13.125.51.118, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇭🇰 HK, Los Angeles", server: 35.85.38.218, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇯🇵 JP, Tokyo", server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "🇰🇷 KR, Incheon", server: 52.79.157.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
